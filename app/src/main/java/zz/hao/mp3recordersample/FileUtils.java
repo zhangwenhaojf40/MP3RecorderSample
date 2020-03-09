@@ -1,4 +1,4 @@
-package com.founder.audioopus;
+package zz.hao.mp3recordersample;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

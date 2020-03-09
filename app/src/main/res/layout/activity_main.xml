@@ -16,6 +16,6 @@
     <Button
         android:layout_width="match_parent"
         android:id="@+id/btn_stop"
-        android:text="录制"
+        android:text="停止"
         android:layout_height="wrap_content" />
 </LinearLayout>
